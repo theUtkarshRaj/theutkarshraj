@@ -50,7 +50,7 @@ Currently Learning:
 
 | Project                                                                                                         | Description                             | Tech Stack                                |
 | --------------------------------------------------------------------------------------------------------------- | --------------------------------------- | ----------------------------------------- |
-| [Government‑Scheme‑QnA‑using‑RAG](https://github.com/theUtkarshRaj/Govt-Scheme-QnA-RAG)                         | RAG-based Q&A on government schemes     | MiniLM, FAISS, Flan‑T5, Gemini API        |
+| [Government‑Scheme‑QnA‑using‑RAG]([https://github.com/theUtkarshRaj/Govt-Scheme-QnA-RAG](https://github.com/theUtkarshRaj/Government-Scheme-QnA-using-RAG))                         | RAG-based Q&A on government schemes     | MiniLM, FAISS, Flan‑T5, Gemini API        |
 | [AI‑Powered‑Student‑Performance‑Feedback‑System](https://github.com/theUtkarshRaj/AI-Powered-Student-Performance-Feedback-System) | Feedback system analyzing student data  | Python, scikit-learn, Streamlit           |
 | [AI‑Voiceover‑With‑Emotion](https://github.com/theUtkarshRaj/AI-Voiceover-With-Emotion)                         | Emotion‑aware TTS voice synthesis       | Python, TensorFlow, Librosa, Typecast API |
 | [Cyclone_Preheater_Anomaly_Detection](https://github.com/theUtkarshRaj/Cyclone_Preheater_Anomaly_Detection-)    | Detects anomalies in industrial heating | Python, Pandas, Scikit-learn              |
