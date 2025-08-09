@@ -48,18 +48,17 @@ Currently Learning:
 
 ## 💼 AI/ML Projects
 
-| Project                                                                                                         | Description                             | Tech Stack                                |
-| --------------------------------------------------------------------------------------------------------------- | --------------------------------------- | ----------------------------------------- |
-|[Government-Scheme-QnA-using-RAG](https://github.com/theUtkarshRaj/Government-Scheme-QnA-using-RAG)
-                         | RAG-based Q&A on government schemes     | MiniLM, FAISS, Flan‑T5, Gemini API        |
-| [AI‑Powered‑Student‑Performance‑Feedback‑System](https://github.com/theUtkarshRaj/AI-Powered-Student-Performance-Feedback-System) | Feedback system analyzing student data  | Python, scikit-learn, Streamlit           |
-| [AI‑Voiceover‑With‑Emotion](https://github.com/theUtkarshRaj/AI-Voiceover-With-Emotion)                         | Emotion‑aware TTS voice synthesis       | Python, TensorFlow, Librosa, Typecast API |
-| [Cyclone_Preheater_Anomaly_Detection](https://github.com/theUtkarshRaj/Cyclone_Preheater_Anomaly_Detection-)    | Detects anomalies in industrial heating | Python, Pandas, Scikit-learn              |
-| [Churn‑Prediction](https://github.com/theUtkarshRaj/Churn-Prediction)                                           | Predicts customer churn                 | Python, SVM, XGBoost                       |
-| [Movie‑Recommendation‑System](https://github.com/theUtkarshRaj/Movie-recommended-system)                        | Recommends movies based on preferences  | Python, scikit-learn                       |
-| [Loan‑Approval‑ML‑Model](https://github.com/theUtkarshRaj/Loan-Approval-ML-Model)                               | Predicts loan eligibility               | Python, Logistic Regression                |
-| [Calorie‑Burnt‑Prediction](https://github.com/theUtkarshRaj/Calorie-Burnt-Prediction)                           | Estimate calories burned                | Python, Regression Models                  |
-| [English‑to‑Hindi‑Translation](https://github.com/theUtkarshRaj/English-to-Hindi-Translation)                   | Neural machine translation system       | HuggingFace Transformers, Seq2Seq         |
+| Project | Description | Tech Stack |
+| ------- | ----------- | ---------- |
+| [Government-Scheme-QnA-using-RAG](https://github.com/theUtkarshRaj/Government-Scheme-QnA-using-RAG) | RAG-based Q&A chatbot on Indian government schemes | Python, LangChain, MiniLM, FAISS, Flan-T5, Gemini API |
+| [AI-Powered-Student-Performance-Feedback-System](https://github.com/theUtkarshRaj/AI-Powered-Student-Performance-Feedback-System) | AI-generated student feedback reports from performance data | Python, Pandas, Matplotlib, ReportLab, Streamlit, Gemini API |
+| [AI-Voiceover-With-Emotion](https://github.com/theUtkarshRaj/AI-Voiceover-With-Emotion) | Emotion-aware text-to-speech synthesis | Python, TensorFlow, Librosa, Typecast API |
+| [Cyclone_Preheater_Anomaly_Detection](https://github.com/theUtkarshRaj/Cyclone_Preheater_Anomaly_Detection-) | Detects anomalies in cyclone preheater industrial systems | Python, Pandas, Scikit-learn |
+| [Churn-Prediction](https://github.com/theUtkarshRaj/Churn-Prediction) | Predicts customer churn from historical data | Python, SVM, XGBoost |
+| [Movie-Recommendation-System](https://github.com/theUtkarshRaj/Movie-recommended-system) | Recommends movies based on user preferences | Python, Scikit-learn |
+| [Loan-Approval-ML-Model](https://github.com/theUtkarshRaj/Loan-Approval-ML-Model) | Predicts loan eligibility | Python, Logistic Regression |
+| [Calorie-Burnt-Prediction](https://github.com/theUtkarshRaj/Calorie-Burnt-Prediction) | Estimates calories burned based on activity | Python, Regression Models |
+| [English-to-Hindi-Translation](https://github.com/theUtkarshRaj/English-to-Hindi-Translation) | Neural machine translation (English→Hindi) | Python, HuggingFace Transformers, Seq2Seq |
 
 ---
 
