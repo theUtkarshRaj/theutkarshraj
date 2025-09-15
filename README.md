@@ -46,6 +46,16 @@ Currently Learning:
 
 ---
 
+## 📂 Portfolio
+
+<p align="left">
+  <a href="https://utkarsh-portfolio-hvy3.onrender.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00D8FF?style=for-the-badge&logo=google&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ## 💼 AI/ML Projects
 
 | Project | Description | Tech Stack |
