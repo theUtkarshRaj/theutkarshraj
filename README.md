@@ -52,7 +52,7 @@ Currently Learning:
 
 | Project | Description | Tech Stack |
 | ------- | ----------- | ---------- |
-| [SupplyGuard](https://github.com/your-username/SupplyGuard](https://github.com/theUtkarshRaj/SupplyGuard) | AI-assisted supply chain risk monitoring using news enrichment and summarization | Python (FastAPI, spaCy), Hugging Face BART, React, Vite, Tailwind CSS |
+| [SupplyGuard](https://github.com/theUtkarshRaj/SupplyGuard) | AI-assisted supply chain risk monitoring using news enrichment and summarization | Python (FastAPI, spaCy), Hugging Face BART, React, Vite, Tailwind CSS |
 | [Government-Scheme-QnA-using-RAG](https://github.com/theUtkarshRaj/Government-Scheme-QnA-using-RAG) | RAG-based Q&A chatbot on Indian government schemes | Python, LangChain, MiniLM, FAISS, Flan-T5, Gemini API |
 | [AI-Powered-Student-Performance-Feedback-System](https://github.com/theUtkarshRaj/AI-Powered-Student-Performance-Feedback-System) | AI-generated student feedback reports from performance data | Python, Pandas, Matplotlib, ReportLab, Streamlit, Gemini API |
 | [AI-Voiceover-With-Emotion](https://github.com/theUtkarshRaj/AI-Voiceover-With-Emotion) | Emotion-aware text-to-speech synthesis | Python, TensorFlow, Librosa, Typecast API |
