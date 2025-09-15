@@ -15,7 +15,7 @@ name: "Utkarsh Raj"
 Education:
   degree: "IDD in Computer Science & AI"
   university: "RGIPT"
-  CGPA: "8.22 / 10"
+  CGPA: "8.23 / 10"
 Internships:
   - "AI Developer @ Prodigal AI"
   - "Fullstack Developer @ Oldskoollabs"
@@ -48,8 +48,11 @@ Currently Learning:
 
 ## 💼 AI/ML Projects
 
+## 💼 AI/ML Projects
+
 | Project | Description | Tech Stack |
 | ------- | ----------- | ---------- |
+| [SupplyGuard](https://github.com/your-username/SupplyGuard](https://github.com/theUtkarshRaj/SupplyGuard) | AI-assisted supply chain risk monitoring using news enrichment and summarization | Python (FastAPI, spaCy), Hugging Face BART, React, Vite, Tailwind CSS |
 | [Government-Scheme-QnA-using-RAG](https://github.com/theUtkarshRaj/Government-Scheme-QnA-using-RAG) | RAG-based Q&A chatbot on Indian government schemes | Python, LangChain, MiniLM, FAISS, Flan-T5, Gemini API |
 | [AI-Powered-Student-Performance-Feedback-System](https://github.com/theUtkarshRaj/AI-Powered-Student-Performance-Feedback-System) | AI-generated student feedback reports from performance data | Python, Pandas, Matplotlib, ReportLab, Streamlit, Gemini API |
 | [AI-Voiceover-With-Emotion](https://github.com/theUtkarshRaj/AI-Voiceover-With-Emotion) | Emotion-aware text-to-speech synthesis | Python, TensorFlow, Librosa, Typecast API |
@@ -59,6 +62,7 @@ Currently Learning:
 | [Loan-Approval-ML-Model](https://github.com/theUtkarshRaj/Loan-Approval-ML-Model) | Predicts loan eligibility | Python, Logistic Regression |
 | [Calorie-Burnt-Prediction](https://github.com/theUtkarshRaj/Calorie-Burnt-Prediction) | Estimates calories burned based on activity | Python, Regression Models |
 | [English-to-Hindi-Translation](https://github.com/theUtkarshRaj/English-to-Hindi-Translation) | Neural machine translation (English→Hindi) | Python, HuggingFace Transformers, Seq2Seq |
+
 
 ---
 
@@ -75,11 +79,13 @@ Currently Learning:
 
 | Project                                                                 | Description                   | Tech Stack                      |
 | ----------------------------------------------------------------------- | ----------------------------- | ------------------------------- |
+| [FreshCart](https://github.com/theUtkarshRaj/FreshCart)                 | Modern grocery e‑commerce app with authentication, cart, orders, and admin features | React (Vite), Express, MongoDB, JWT, Tailwind CSS |
 | [Pneuma‑chatbot](https://github.com/theUtkarshRaj/Pneuma-chatbot)      | AI chatbot for travel rewards | Flask, Gemini API, JS, HTML/CSS |
 | [Hotel‑Booking](https://github.com/theUtkarshRaj/hotel-Booking-frontend) | Hotel booking UI              | React, TailwindCSS              |
 | [E‑commerce‑Website](https://github.com/theUtkarshRaj/E-commerce-Website) | E‑Commerce platform           | React, Node.js, MongoDB         |
 | [Razorpay‑Clone](https://github.com/theUtkarshRaj/Razorpay-Clone)       | Razorpay payment simulation   | React, Node.js, Razorpay API    |
 | [Myntra‑Clone](https://github.com/theUtkarshRaj/Myntra-Clone)           | Frontend of Myntra            | React, Node.js, MongoDB         |
+
 
 ---
 
@@ -87,12 +93,16 @@ Currently Learning:
 
 | Domain        | Technologies                                      |
 | ------------- | ------------------------------------------------- |
-| **Languages** | Python, JavaScript, HTML, CSS, C++, MATLAB        |
-| **Frontend**  | React, TailwindCSS                                |
-| **Backend**   | Flask, Node.js, Express                           |
-| **ML/DL**     | TensorFlow, Keras, Scikit‑learn, Transformers     |
+| **Languages** | Python, JavaScript, TypeScript, HTML, CSS, C++, MATLAB, Java, MySQL |
+| **Frontend**  | React, Next.js, TailwindCSS, Vue.js                |
+| **Backend**   | Flask, FastAPI, Express.js, Node.js                |
+| **ML/DL**     | LangChain, TensorFlow, Keras, PyTorch, Scikit‑learn, Transformers, NLP, LLMs, AI Agents, CNNs |
 | **Databases** | MongoDB, MySQL                                    |
-| **Tools**     | Docker, Git, Linux, Streamlit, HuggingFace, FAISS |
+| **Cloud/DevOps** | AWS Lambda, Docker, GitHub Actions, Linux      |
+| **Tools**     | Git, Selenium, PyTest, Tailwind, FAISS, Hugging Face, Data Governance Tools |
+| **APIs**      | REST APIs, GraphQL APIs                           |
+| **Visualization** | Data Visualization, AI-powered Interfaces    |
+
 
 ---
 
