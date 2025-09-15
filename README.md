@@ -48,8 +48,6 @@ Currently Learning:
 
 ## 💼 AI/ML Projects
 
-## 💼 AI/ML Projects
-
 | Project | Description | Tech Stack |
 | ------- | ----------- | ---------- |
 | [SupplyGuard](https://github.com/theUtkarshRaj/SupplyGuard) | AI-assisted supply chain risk monitoring using news enrichment and summarization | Python (FastAPI, spaCy), Hugging Face BART, React, Vite, Tailwind CSS |
