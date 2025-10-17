@@ -60,6 +60,7 @@ Currently Learning:
 
 | Project | Description | Tech Stack |
 | ------- | ----------- | ---------- |
+| [AI-Powered-Interview-Assistant](https://github.com/theUtkarshRaj/AI-Powered-Interview-Assistant) | AI-driven interview management system that automates technical interviews, evaluates candidate responses, and generates performance summaries | React, TypeScript, Redux Toolkit, Tailwind CSS, Ant Design, OpenAI API, Vite |
 | [SupplyGuard](https://github.com/theUtkarshRaj/SupplyGuard) | AI-assisted supply chain risk monitoring using news enrichment and summarization | Python (FastAPI, spaCy), Hugging Face BART, React, Vite, Tailwind CSS |
 | [Government-Scheme-QnA-using-RAG](https://github.com/theUtkarshRaj/Government-Scheme-QnA-using-RAG) | RAG-based Q&A chatbot on Indian government schemes | Python, LangChain, MiniLM, FAISS, Flan-T5, Gemini API |
 | [AI-Powered-Student-Performance-Feedback-System](https://github.com/theUtkarshRaj/AI-Powered-Student-Performance-Feedback-System) | AI-generated student feedback reports from performance data | Python, Pandas, Matplotlib, ReportLab, Streamlit, Gemini API |
@@ -70,6 +71,7 @@ Currently Learning:
 | [Loan-Approval-ML-Model](https://github.com/theUtkarshRaj/Loan-Approval-ML-Model) | Predicts loan eligibility | Python, Logistic Regression |
 | [Calorie-Burnt-Prediction](https://github.com/theUtkarshRaj/Calorie-Burnt-Prediction) | Estimates calories burned based on activity | Python, Regression Models |
 | [English-to-Hindi-Translation](https://github.com/theUtkarshRaj/English-to-Hindi-Translation) | Neural machine translation (English→Hindi) | Python, HuggingFace Transformers, Seq2Seq |
+
 
 
 ---
