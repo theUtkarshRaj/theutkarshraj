@@ -60,6 +60,7 @@ Currently Learning:
 
 | Project | Description | Tech Stack |
 | ------- | ----------- | ---------- |
+| [SmartEye](https://github.com/theUtkarshRaj/SmartEye) | Ultra-optimized real-time video inference system using YOLOv8 with sub-100ms latency, multi-stream processing, and a full React dashboard | Python (FastAPI, YOLOv8, OpenCV), React, Vite |
 | [AI-Powered-Interview-Assistant](https://github.com/theUtkarshRaj/AI-Powered-Interview-Assistant) | AI-driven interview management system that automates technical interviews, evaluates candidate responses, and generates performance summaries | React, TypeScript, Redux Toolkit, Tailwind CSS, Ant Design, OpenAI API, Vite |
 | [SupplyGuard](https://github.com/theUtkarshRaj/SupplyGuard) | AI-assisted supply chain risk monitoring using news enrichment and summarization | Python (FastAPI, spaCy), Hugging Face BART, React, Vite, Tailwind CSS |
 | [Government-Scheme-QnA-using-RAG](https://github.com/theUtkarshRaj/Government-Scheme-QnA-using-RAG) | RAG-based Q&A chatbot on Indian government schemes | Python, LangChain, MiniLM, FAISS, Flan-T5, Gemini API |
@@ -80,6 +81,7 @@ Currently Learning:
 
 | Project                                                                                      | Description                   | Tech Stack             |
 | -------------------------------------------------------------------------------------------- | ----------------------------- | ---------------------- |
+| [SmartEye](https://github.com/theUtkarshRaj/SmartEye) | Real-time multi-stream object detection system with YOLOv8 and sub-100ms latency | Python, YOLOv8, FastAPI, OpenCV |
 | [WildFire‑Prediction](https://github.com/theUtkarshRaj/WildFire-Prediction)                 | Forecasts wildfire occurrence | TensorFlow, Keras, CNN |
 | [Image_Masking_and_Inpainting](https://github.com/theUtkarshRaj/Image_Masking_and_Inpainting) | Image inpainting with masking | Python, OpenCV, CNN    |
 
@@ -106,12 +108,14 @@ Currently Learning:
 | **Languages** | Python, JavaScript, TypeScript, HTML, CSS, C++, MATLAB, Java, MySQL |
 | **Frontend**  | React, Next.js, TailwindCSS, Vue.js                |
 | **Backend**   | Flask, FastAPI, Express.js, Node.js                |
-| **ML/DL**     | LangChain, TensorFlow, Keras, PyTorch, Scikit‑learn, Transformers, NLP, LLMs, AI Agents, CNNs |
+| **ML/DL**     | LangChain, TensorFlow, Keras, PyTorch, Scikit-learn, Transformers, NLP, LLMs, AI Agents, CNNs, **YOLOv8**, **Real-Time CV Systems** |
+| **Computer Vision** | **OpenCV**, **Real-Time Object Detection**, **Video Stream Processing** |
 | **Databases** | MongoDB, MySQL                                    |
 | **Cloud/DevOps** | AWS Lambda, Docker, GitHub Actions, Linux      |
 | **Tools**     | Git, Selenium, PyTest, Tailwind, FAISS, Hugging Face, Data Governance Tools |
 | **APIs**      | REST APIs, GraphQL APIs                           |
 | **Visualization** | Data Visualization, AI-powered Interfaces    |
+
 
 
 ---
